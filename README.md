@@ -1,2 +1,0 @@
-# TP-Git
-TP GIT
